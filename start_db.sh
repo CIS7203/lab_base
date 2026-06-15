@@ -35,3 +35,6 @@ fi
 
 # Confirm the final connection state
 $BIN_DIR/pg_isready -h localhost -p 5432 -d postgres
+
+code --install-extension mtxr.sqltools >/dev/null 2>&1
+code --install-extension mtxr.sqltools-driver-pg >/dev/null 2>&1
