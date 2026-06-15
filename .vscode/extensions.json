@@ -2,10 +2,10 @@
     "recommendations": [
         "mtxr.sqltools",
         "mtxr.sqltools-driver-pg",
-        "randomfractalsinc.vscode-data-preview",
-        "adpyke.vscode-sql-formatter",
-        "GrapeCity.gc-excelviewer",
-        "ms-python.python",
-        "ms-python.vscode-pylance"
+        // "randomfractalsinc.vscode-data-preview",
+        // "adpyke.vscode-sql-formatter",
+        // "GrapeCity.gc-excelviewer",
+        // "ms-python.python",
+        // "ms-python.vscode-pylance"
     ]
 }
