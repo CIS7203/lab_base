@@ -1,7 +1,7 @@
 {
     "sqltools.connections": [
         {
-            "name": "Coursera Production DB",
+            "name": "Coursera Labs DB",
             "driver": "PostgreSQL",
             "server": "127.0.0.1",
             "port": 5432,
@@ -9,5 +9,7 @@
             "username": "postgres",
             "password": "secret"
         }
-    ]
+    ],
+    "sqltools.autoConnectTo": "Coursera Labs DB",
+    "sqltools.showSidebarOnConnect": true
 }
